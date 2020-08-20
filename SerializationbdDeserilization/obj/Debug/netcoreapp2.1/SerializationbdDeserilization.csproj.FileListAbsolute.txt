@@ -1,0 +1,11 @@
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\bin\Debug\netcoreapp2.1\SerializationbdDeserilization.deps.json
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\bin\Debug\netcoreapp2.1\SerializationbdDeserilization.runtimeconfig.json
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\bin\Debug\netcoreapp2.1\SerializationbdDeserilization.runtimeconfig.dev.json
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\bin\Debug\netcoreapp2.1\SerializationbdDeserilization.dll
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\bin\Debug\netcoreapp2.1\SerializationbdDeserilization.pdb
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\obj\Debug\netcoreapp2.1\SerializationbdDeserilization.csprojAssemblyReference.cache
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\obj\Debug\netcoreapp2.1\SerializationbdDeserilization.csproj.CoreCompileInputs.cache
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\obj\Debug\netcoreapp2.1\SerializationbdDeserilization.AssemblyInfoInputs.cache
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\obj\Debug\netcoreapp2.1\SerializationbdDeserilization.AssemblyInfo.cs
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\obj\Debug\netcoreapp2.1\SerializationbdDeserilization.dll
+C:\Users\Mestaris\Desktop\Projects\SerializationbdDeserilization\SerializationbdDeserilization\obj\Debug\netcoreapp2.1\SerializationbdDeserilization.pdb
